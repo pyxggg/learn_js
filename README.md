@@ -1,1 +1,1 @@
-# learn_js
+learn js for myselft
